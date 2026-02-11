@@ -140,11 +140,20 @@ color: white;
 }
 .cadre{
 text-align: center;
-}
+} 
 .cadre a i{
 background-color: rgba(0, 100, 0, 0.5);
 font-size: 25px;
 padding: 30px ;
 border-radius: 50%;
 color: white;
+}
+p a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: greenyellow;
+    padding: 15px 30px;
+    
 }
